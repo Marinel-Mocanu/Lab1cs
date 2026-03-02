@@ -1,5 +1,5 @@
-# Lab1cs
-Aplicatie de gestiune a unui magazin de instrumente muzicale:
+
+# Aplicatie de gestiune a unui magazin de instrumente muzicale:
 1.adaugare instrumente in stoc
 2.editare/stergere instrument din stoc
 3.afisare lista instrumente muzicale in stoc pe diferite categorii(chitare,percutie,claviatura,microfoane,etc)
