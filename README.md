@@ -7,3 +7,4 @@ Aplicatie de gestiune a unui magazin de instrumente muzicale:
 5.afisare pret(cu sau fara reduceri)
 6.interfata interactiva, usor de folosit, intuitiva..
 7.creare cont clienti
+8.rezolvare erori
